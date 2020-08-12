@@ -1,116 +1,124 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "website": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "name": "Steven Diamante",
+    "label": "Full stack Software Developer",
+    "picture": "https://user-images.githubusercontent.com/29823897/90045020-12637580-dc94-11ea-9b62-74872277c0da.jpg",
+    "summary": "Passionate Software Developer who loves to learn and teach others.",
+    "website": "https://path-to-programming.tech",
+    "email": "stevendiamante13@gmail.com",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "city": "Chicago",
+      "region": "Illinois"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
-    }]
+    "profiles": [
+      {
+        "username": "SDiamante13",
+        "url": "https://twitter.com/SDiamante13",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/SDiamante13",
+        "username": "SDiamante13",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/steven-diamante-6a2b7782/",
+        "network": "linkedin"
+      }
+    ]
   },
-  "work": [{
-    "company": "Company",
-    "position": "Developer",
-    "website": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Lead Developer of Innovation hub"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "WEB101 - Web Development",
-      "SYS123 - Object Oriented Programming"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2020-10-01",
-    "website": "http://publication.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
-    ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
+  "education": [
     {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
+      "endDate": "2015-05-15",
+      "startDate": "2012-08-27",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelors",
+      "institution": "Virginia Tech"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Steven stepped into the Anchor role of the Member-Search API with an energy and enthusiasm that could not be appreciated more. Though he was initially set up for failure with a sudden rotation and no time to transition, he has thrived. Steven has taken a wholistic approach to development, starting his tenure on the team with identifying areas of the code that could be refactored and made more efficient. Steven has been a key contributor to the documentation and administrative requirements and has held the weight of an initially underperforming team of developers. As his team matured, Steven has led implementation of processes to improve the quality of the delivery. Steven regularly examines how our deployments could be performed more dependably and safely and he has taken suggestion from the team for tools and implementations that have made for a more resilient and reliable micro-service. Steven has been an incredible team player and a staunch proponent of listening to his team and adopting suggestion for improvements. I’ve observed principles of learning from scenarios with unexpected results. Any critical feedback for improvement has been rendered irrelevant by his constant application of improving in the moment from these results. Steven has been a wonderful partner in managing the product and all of our success is due to the collaborative approach to all deliveries.",
+      "name": "Jarret Arnold, Engagement Manager at Nansen"
+    },
+    {
+      "reference": "Steven is a self-motivated talent, that is agile and willing to take on any challenge. He understands the balance of individual work and team collaboration. He will fit well in any team with his williness to engage others. Steven is an effective communicator and will have a positive impact on any program.",
+      "name": "Ronald March, Operations Manager at Merck"
+    }
+  ],
+  "skills": [
+    {
       "keywords": [
-        "PHP", "NodeJS", "Javascript"
+        "HTML / JSX",
+        "CSS / BEM / Styled Components",
+        "Javascript / Typescript",
+        "React",
+        "Redux"
       ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
+      "level": "Proficient",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Spring Boot",
+        "Java",
+        "Kotlin",
+        "Pivotal Gemfire",
+        "Mongo DB",
+        "MySQL",
+        "Postgres",
+        "Redis"
       ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
+      "level": "Expert",
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "PCF",
+        "Pivotal Concourse",
+        "Jenkins",
+        "Docker",
+        "Nexus",
+        "AWS",
+        "Heroku"
+      ],
+      "level": "Proficient",
+      "name": "Devops"
+    }
+  ],
+  "work": [
+    {
+      "summary": "",
+      "website": "https://hcsc.com",
+      "company": "HCSC",
+      "pinned": true,
+      "location": "Chicago",
+      "position": "Software Developer",
+      "startDate": "2018-06-26",
+      "highlights": [
+        "Built functionality for microservice teams",
+        "Node.js / Rails",
+        "Docker / Heroku / GCP",
+        "Used Figma for design and UX work",
+        "Optimizing markets with tens of millions of rows using SQL "
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Playing Guitar"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Singing"
+    },
+    {
+      "name": "Video Games"
+    },
+    {
+      "name": "Sports"
     }
   ]
 }
